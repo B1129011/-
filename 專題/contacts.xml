@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<People>
+	<Person name="Person_1">
+		<DirectContacts>
+			<Contact>Person_6</Contact>
+			<Contact>Person_4</Contact>
+			<Contact>Person_3</Contact>
+			<Contact>Person_2</Contact>
+			<Contact>Person_5</Contact>
+		</DirectContacts>
+		<IndirectContacts/>
+	</Person>
+	<Person name="Person_2">
+		<DirectContacts>
+			<Contact>Person_6</Contact>
+			<Contact>Person_4</Contact>
+			<Contact>Person_1</Contact>
+			<Contact>Person_3</Contact>
+			<Contact>Person_5</Contact>
+		</DirectContacts>
+		<IndirectContacts/>
+	</Person>
+	<Person name="Person_3">
+		<DirectContacts>
+			<Contact>Person_4</Contact>
+			<Contact>Person_2</Contact>
+			<Contact>Person_1</Contact>
+		</DirectContacts>
+		<IndirectContacts>
+			<Contact>Person_6 (through Person_1)</Contact>
+			<Contact>Person_5 (through Person_1)</Contact>
+		</IndirectContacts>
+	</Person>
+	<Person name="Person_4">
+		<DirectContacts>
+			<Contact>Person_3</Contact>
+			<Contact>Person_2</Contact>
+			<Contact>Person_1</Contact>
+		</DirectContacts>
+		<IndirectContacts>
+			<Contact>Person_6 (through Person_1)</Contact>
+			<Contact>Person_5 (through Person_1)</Contact>
+		</IndirectContacts>
+	</Person>
+	<Person name="Person_5">
+		<DirectContacts>
+			<Contact>Person_6</Contact>
+			<Contact>Person_2</Contact>
+			<Contact>Person_1</Contact>
+		</DirectContacts>
+		<IndirectContacts>
+			<Contact>Person_4 (through Person_1)</Contact>
+			<Contact>Person_3 (through Person_1)</Contact>
+		</IndirectContacts>
+	</Person>
+	<Person name="Person_6">
+		<DirectContacts>
+			<Contact>Person_1</Contact>
+			<Contact>Person_2</Contact>
+			<Contact>Person_5</Contact>
+		</DirectContacts>
+		<IndirectContacts>
+			<Contact>Person_4 (through Person_2)</Contact>
+			<Contact>Person_3 (through Person_2)</Contact>
+		</IndirectContacts>
+	</Person>
+</People>

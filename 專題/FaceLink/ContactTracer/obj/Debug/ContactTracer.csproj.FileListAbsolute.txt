@@ -1,0 +1,11 @@
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\bin\Debug\ContactTracer.exe.config
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\bin\Debug\ContactTracer.exe
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\bin\Debug\ContactTracer.pdb
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.csproj.AssemblyReference.cache
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.Form1.resources
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.Properties.Resources.resources
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.searchresultcontrol.resources
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.csproj.GenerateResource.cache
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.csproj.CoreCompileInputs.cache
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.exe
+C:\Users\User\桌面\專題\FaceLink\ContactTracer\obj\Debug\ContactTracer.pdb
